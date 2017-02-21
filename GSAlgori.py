@@ -9,7 +9,7 @@ Created on 2017/2/21 08:31
 """
 
 """
-@discription:
+@description:
 G-S 稳定匹配算法的实现,模拟男女配对问题.
 采用最朴素的算法,时间复杂度O(n²).
 """
